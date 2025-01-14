@@ -12,6 +12,10 @@ This repository contains de-identified example data and resources for computing 
   - An Excel file with LEDD scores for the example patient.
 - **`MDSUPDRS_Scores_ExamplePatient.xlsx`**: 
   - An Excel file with MDS-UPDRS scores for the example patient.
+- **`FeatureSelection_and_ClassificatioinLearning.ipynb`**: 
+  - A jupyter notebook (python 3.7) that performs feature selection and also performs a classification learning task using HGNNs from the DHG package in PyTorch
+- **`T1_metrics.xlsx`**: 
+  - An Excel file with all features and charecteristics used in the predictive modeling for our cohort.
 
 ## Data De-Identification
 
@@ -26,7 +30,6 @@ The included example patient data is derived from a real patient but has been de
 This repository will soon include:
 - **Code**:
   - Scripts for processing weighted MRI images and calculating fractal dimensions.
-  - Hypergraph learning classification tools optimized for fast and accurate analysis.
   - Statistical analysis scripts for downstream interpretation and visualization.
 - **Data**:
   - De-identified MRI scans and associated metadata.
