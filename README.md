@@ -37,7 +37,6 @@ This repository will soon include:
 
 ## Licenses
 -  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
-- The de-identified data in this repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
 ## Acknowledgments
 
