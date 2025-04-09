@@ -14,7 +14,7 @@ This repository contains de-identified example data and resources for computing 
   - An Excel file with MDS-UPDRS scores for the example patient.
 - **`FeatureSelection_and_ClassificatioinLearning.ipynb`**: 
   - A jupyter notebook (python 3.7) that performs feature selection and also performs a classification learning task using HGNNs from the DHG package in PyTorch
-- **`T1_metrics.xlsx`**: 
+- **`T1_metrics_FD_MDSUPDRS.xlsx`**: 
   - An Excel file with all features and charecteristics used in the predictive modeling for our cohort.
 
 ## Data De-Identification
