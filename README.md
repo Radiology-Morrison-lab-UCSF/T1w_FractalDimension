@@ -36,7 +36,14 @@ This repository will soon include:
   - All data will be made publicly available through [OpenNeuro](https://openneuro.org/) upon completion of ongoing analyses.
 
 ## Licenses
--  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+**Copyright 2025 UCSF**
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:  
+[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+- All code files in this repository are licensed under the Apache License 2.0.
+- `LEDD_Score_ExamplePatient.xlsx`, `MDSUPDRS_Scores_ExamplePatient.xlsx`, `T1_metrics_FD_MDSUPDRS.xlsx`, and `ExamplePatient_T1w_brain.nii.gz` were acquired at the University of California San Francisco and are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Acknowledgments
 
