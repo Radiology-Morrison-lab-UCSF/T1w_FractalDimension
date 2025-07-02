@@ -1,6 +1,6 @@
 # T1w Fractal Dimension Repository
 
-This repository contains de-identified example data and resources for computing fractal dimensions from T1-weighted MRI scans. It includes code and patient-derived, de-identified data for analysis and processing. The repository is part of ongoing research in the Radiology-Morrison-lab-UCSF. ** We kindly ask that you cite our article when using materials from this repository: Schoen, D., Deutsch, S., Mehta, J. et al. Boundary complexity of cortical and subcortical areas predicts deep brain stimulation outcomes in Parkinson’s disease. Nat Commun 16, 5590 (2025). https://doi.org/10.1038/s41467-025-60695-4 **:
+This repository contains de-identified example data and resources for computing fractal dimensions from T1-weighted MRI scans. It includes code and patient-derived, de-identified data for analysis and processing. The repository is part of ongoing research in the Radiology-Morrison-lab-UCSF. We kindly ask that you cite our article when using materials from this repository: `Schoen, D., Deutsch, S., Mehta, J. et al. Boundary complexity of cortical and subcortical areas predicts deep brain stimulation outcomes in Parkinson’s disease. Nat Commun 16, 5590 (2025). https://doi.org/10.1038/s41467-025-60695-4`:
 
 ## Contents
 
